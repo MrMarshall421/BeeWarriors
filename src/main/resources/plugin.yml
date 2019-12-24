@@ -1,0 +1,12 @@
+name: BeeWarriors
+version: 0.1.0
+author: MrMarshall
+description: BeeWarriors is an innovative and great Addition to your minecraft server which allows you to recruit Bees to fight for you!
+website: https://mrmarshall.dev/
+
+main: dev.mrmarshall.beewarriors.plugin.BeeWarriors
+
+commands:
+  beewarriors:
+    description: Basic plugin command
+    aliases: [bw]
